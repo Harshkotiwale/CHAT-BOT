@@ -1,0 +1,1 @@
+ANIBOT is an intelligent chatbot designed to connect people with animal rescue resources and information. It provides real-time assistance for animal emergencies, locations of nearby rescue centers, and educational content about animal welfare
